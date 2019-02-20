@@ -10,3 +10,8 @@ html {
 
 /* Write your solution here */
 
+@media (min-width: 1196px) {
+  #bear {
+    left: 800px;
+  }  
+}

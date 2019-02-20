@@ -9,4 +9,9 @@ html {
 }
 
 /* Write your solution here */
-
+@media (min-width: 406px) and (max-width: 1170px) {
+  #monkey {
+    top: 550px;
+    right: 900px;
+  }
+}
